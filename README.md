@@ -10,5 +10,11 @@ then calculate their share of bill based on their usage points
 ### Tools
 * Android Studio
 ### Languages
-* Kotlin
+#### FrontEnd
 * XML
+#### BackEnd
+* Kotlin
+## Screenshots
+![App Screenshot](https://github.com/khobbi/Billot/blob/b08cdb28c0ae9b20bcb98a3bfc6535dfb89c7c80/screenshots/billot2.jpg)
+![App Screenshot](https://github.com/khobbi/Billot/blob/b08cdb28c0ae9b20bcb98a3bfc6535dfb89c7c80/screenshots/billot3.jpg)
+![App Screenshot](https://github.com/khobbi/Billot/blob/b08cdb28c0ae9b20bcb98a3bfc6535dfb89c7c80/screenshots/billot1.jpg)
